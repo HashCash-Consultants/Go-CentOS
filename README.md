@@ -32,7 +32,7 @@ $ dep version
 - git clone https://github.com/HashCash-Consultants/go.git
 - go to /home/centos/go/src/github.com/hcnet /go and execute following command:
 ```
-	$ sudo apt-get install mercurial
+	$ sudo yum install mercurial
 	$ dep ensure –v
 ```
 - go to /home/centos/go/src and execute following command:
